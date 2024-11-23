@@ -1,0 +1,7 @@
+D:\friend\C#\ChatServerUDP\bin\Debug\ChatServerUDP.exe.config
+D:\friend\C#\ChatServerUDP\bin\Debug\ChatServerUDP.exe
+D:\friend\C#\ChatServerUDP\bin\Debug\ChatServerUDP.pdb
+D:\friend\C#\ChatServerUDP\obj\Debug\ServerUDPFile.csproj.AssemblyReference.cache
+D:\friend\C#\ChatServerUDP\obj\Debug\ServerUDPFile.csproj.CoreCompileInputs.cache
+D:\friend\C#\ChatServerUDP\obj\Debug\ChatServerUDP.exe
+D:\friend\C#\ChatServerUDP\obj\Debug\ChatServerUDP.pdb
