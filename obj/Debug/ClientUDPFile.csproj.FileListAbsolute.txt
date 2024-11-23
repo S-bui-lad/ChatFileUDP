@@ -1,0 +1,7 @@
+D:\friend\C#\ClientUDPFile\bin\Debug\ClientUDPFile.exe.config
+D:\friend\C#\ClientUDPFile\bin\Debug\ClientUDPFile.exe
+D:\friend\C#\ClientUDPFile\bin\Debug\ClientUDPFile.pdb
+D:\friend\C#\ClientUDPFile\obj\Debug\ClientUDPFile.csproj.AssemblyReference.cache
+D:\friend\C#\ClientUDPFile\obj\Debug\ClientUDPFile.csproj.CoreCompileInputs.cache
+D:\friend\C#\ClientUDPFile\obj\Debug\ClientUDPFile.exe
+D:\friend\C#\ClientUDPFile\obj\Debug\ClientUDPFile.pdb
